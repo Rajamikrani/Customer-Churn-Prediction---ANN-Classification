@@ -2,7 +2,7 @@
 
 A Streamlit web app that predicts whether a bank customer is likely to churn, powered by an Artificial Neural Network (ANN) trained on the classic Bank Customer Churn dataset.
 
-**Live demo:** `<add your Streamlit Community Cloud / Render URL here>`
+**Live demo:** `https://customer-churn-prediction---ann-classification-lzijzws58ujv4ac.streamlit.app/`
 
 ---
 
@@ -32,7 +32,8 @@ The trained model is wrapped in an interactive **Streamlit** app so anyone can e
 ## Demo
 
 > Add a screenshot or GIF of the app here once deployed, e.g.
-> `![App screenshot](assets/demo.png)`
+> `![1783672551383](image/README/1783672551383.png)`
+  `![1783672697829](image/README/1783672697829.png)`
 
 To try it locally, see [Getting Started](#getting-started).
 
